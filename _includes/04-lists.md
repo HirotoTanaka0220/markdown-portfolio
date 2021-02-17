@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### My Favorites:+1:
+* Music
+* Reading books
+* Exercises
